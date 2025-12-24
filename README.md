@@ -1,2 +1,14 @@
 # Personal-Nav
-Nav是一个精美的个人网站导航管理系统，帮助你整理和管理你收藏的网站链接。支持分组管理、拖拽排序、暗色模式等功能，让你的网站收藏更有条理、更易访问。
+
+This is the initial setup for the Personal-Nav project. It includes:
+
+- React front-end using Vite
+- Tailwind CSS for styling
+- Boilerplate for a Node.js backend
+
+## Quick Start
+
+```bash
+npm install
+npm run dev
+```
