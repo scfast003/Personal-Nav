@@ -5,7 +5,6 @@ export interface NavLink {
   url: string;
   description: string;
   icon?: LucideIcon;
-  iconName?: string;
 }
 
 export interface NavCategory {
